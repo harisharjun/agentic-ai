@@ -1,0 +1,2 @@
+# Add project dependencies here, one per line (e.g. anthropic>=0.40)
+python-dotenv
